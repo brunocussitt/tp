@@ -4,7 +4,6 @@
 ### Integrantes
 * 50672 Martin Pilaszek
 * 50336 Lazaro Cerquetti
-* 51732 Thiago Pipero
 * 48784 Bruno Cussitt
 
 ### Repositorios
