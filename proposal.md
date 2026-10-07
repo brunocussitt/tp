@@ -16,7 +16,7 @@
 Aplicacion para gestion de reservas en un estacionamiento. Comprende la alta de usuarios, gestion de playas de estacionamientos, reservas, tarifas, clientes y pagos.
 
 ### Modelo
-<img width="1367" height="746" alt="image" src="https://github.com/user-attachments/assets/8f2d5679-8778-47ce-9575-dc4a03506b50" />
+<img width="1131" height="561" alt="image" src="https://github.com/user-attachments/assets/4260319f-19d6-455a-a238-3fb71e4e96cf" />
 
 ## Alcance Funcional 
 
