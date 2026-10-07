@@ -4,7 +4,6 @@
 ### Integrantes
 * 50672 Martin Pilaszek
 * 50336 Lazaro Cerquetti
-* 51732 Thiago Pipero
 * 48784 Bruno Cussitt
 
 ### Repositorios
@@ -24,7 +23,7 @@ Aplicacion para gestion de reservas en un estacionamiento. Comprende la alta de 
 
 |Req|Detalle|
 |:-|:-|
-| CRUD Simple | 1. CRUD Usuario<br/>2. CRUD Cliente<br/>3. CRUD TipoVehiculo<br/>4. CRUD TipoEstadia<br/>5. CRUD Playa |
+| CRUD Simple | 1. CRUD Usuario<br/>2. CRUD Reserva<br/>3. CRUD TipoVehiculo<br/>4. CRUD TipoEstadia<br/>5. CRUD Playa<br/>6. CRUD Tarifa<br/>7. CRUD Pago<br/>8. CRUD Cochera |
 | CRUD Dependiente | 1. CRUD Cochera depende de Playa<br/>2. CRUD Pago depende de Reserva<br/>3. CRUD Tarifa depende de TipoVehiculo y TipoEstadia<br/>4. CRUD Reserva depende de Cliente, Cochera, TipoVehiculo y TipoEstadia |
 | Listado + detalle | 1. Listado de cochera por playa<br/>2. Listado de reservas<br/>3. Listado de clientes |
 | CUU/Epic | 1. Crear una reserva: valida disponibilidad de cochera, calcula precio según tarifa y asocia cliente existente o nuevo<br/>2. Finalizar una reserva: libera cochera y registra el pago<br/>3. Cancelar una reserva |
